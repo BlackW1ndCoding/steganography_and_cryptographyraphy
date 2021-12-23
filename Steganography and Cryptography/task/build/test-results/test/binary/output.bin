@@ -1,0 +1,12 @@
+[1;31m
+Start test 1[0m
+Task (hide, show, exit):
+> hide
+Input image file:
+> test/testimage.png
+Output image file:
+> test/out.png
+Message to hide:
+$> Hyperskill steganography program.
+&Message saved in test/out.png image.
+Task (hide, show, exit):
