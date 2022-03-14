@@ -9,6 +9,13 @@
       <module name="Steganography_and_Cryptography.Steganography_and_Cryptography-task-out.main" target="11" />
       <module name="Steganography_and_Cryptography.Steganography_and_Cryptography-task.main" target="11" />
       <module name="Steganography_and_Cryptography.util.main" target="11" />
+      <module name="steganography_and_cryptographyraphy.Steganography_and_Cryptography-task-build-classes-kotlin.main" target="11" />
+      <module name="steganography_and_cryptographyraphy.Steganography_and_Cryptography-task-build-reports-tests.main" target="11" />
+      <module name="steganography_and_cryptographyraphy.Steganography_and_Cryptography-task-build-test-results.main" target="11" />
+      <module name="steganography_and_cryptographyraphy.Steganography_and_Cryptography-task-build-tmp.main" target="11" />
+      <module name="steganography_and_cryptographyraphy.Steganography_and_Cryptography-task-out.main" target="11" />
+      <module name="steganography_and_cryptographyraphy.Steganography_and_Cryptography-task.main" target="11" />
+      <module name="steganography_and_cryptographyraphy.util.main" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
